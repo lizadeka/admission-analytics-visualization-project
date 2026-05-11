@@ -1,3 +1,9 @@
+# Excelerate Data Analyst Trainee Internship
+
+### Team-09 | 2026
+
+**Associate:** Kolawale Oparinde 
+
 # Admission Analytics Dashboard & Reporting Project
 
 ## Project Overview
