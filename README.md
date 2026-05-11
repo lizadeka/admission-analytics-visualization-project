@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project was developed as part of a Data Analytics & Visualization Internship.  
+The repository represents my individual portfolio version of the project, including the analytical workflow, dashboard reporting structure, and presentation refinements.
 The objective of the project was to transform fragmented admission data into a structured and interactive dashboard that supports data-driven decision-making.
 
 The project focused on:
