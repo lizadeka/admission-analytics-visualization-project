@@ -1,16 +1,8 @@
 # Admission Analytics Dashboard & Reporting Project
 
 ## Project Overview
-This project was developed as part of a Data Analytics & Visualization Internship.  
-The repository represents my individual portfolio version of the project, including the analytical workflow, dashboard reporting structure, and presentation refinements.
-The project involved transforming fragmented and inconsistent admission data into a clean, structured, and interactive dashboard that supports data-driven decision-making through visualization, KPI analysis, and reporting.
-
-# Admission Analytics Dashboard & Visualization Project
-
-## About this Repository
-
 This repository documents my internship journey as part of a Data Analytics & Visualization Internship project focused on admission analytics and dashboard reporting.
-
+The repository represents my individual portfolio version of the project, including the analytical workflow, dashboard reporting structure, and presentation refinements.
 The project involved transforming fragmented and inconsistent admission data into a clean, structured, and interactive dashboard that supports data-driven decision-making through visualization, KPI analysis, and reporting.
 
 The internship journey was structured into four major weeks:
