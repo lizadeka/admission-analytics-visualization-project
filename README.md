@@ -43,7 +43,7 @@ By the end of Week 1, the raw dataset was assessed and prepared for large-scale 
 
 # Week 2: Data Cleaning, Transformation & Standardization  
 
-This phase focused on data preprocessing and building a structured analysis-ready dataset.
+This phase focused on data preprocessing and building a structured analysis-ready dataset uaing Microsoft Excel.
 
 Key preprocessing activities included:
 
