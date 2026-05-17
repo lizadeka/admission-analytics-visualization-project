@@ -1,4 +1,4 @@
-# Excelerate Data Analyst Trainee Internship
+# Data Analyst Trainee Internship
 
 ### Team-12 | 2026
 
