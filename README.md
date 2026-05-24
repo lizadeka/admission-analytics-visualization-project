@@ -2,7 +2,7 @@
 
 ### Team-12 | 2026
 
-**Associate:** Kolawale Oparinde 
+**Mentor:** Kolawale Oparinde 
 
 ## Project Overview
 This repository documents my internship journey as part of a Data Analytics & Visualization Internship project focused on admission analytics and dashboard reporting.
