@@ -2,8 +2,6 @@
 
 ### Team-12 | 2026
 
-**Mentor:** Kolawale Oparinde 
-
 ## Project Overview
 This repository documents my internship journey as part of a Data Analytics & Visualization Internship project focused on admission analytics and dashboard reporting.
 The repository represents my individual portfolio version of the project, including the analytical workflow, dashboard reporting structure, and presentation refinements.
@@ -148,7 +146,8 @@ The final presentation successfully demonstrated how raw admission data could be
 ## Tools Used
 
 - Google Data Studio (Looker Studio)  
-- Excel
+- Microsoft Excel
+- Canva
 
 ---
 
