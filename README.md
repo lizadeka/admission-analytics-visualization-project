@@ -172,3 +172,10 @@ The project demonstrated how preprocessing, visualization, and analytical report
 
 <img width="1252" height="752" alt="image" src="https://github.com/user-attachments/assets/94d99049-897a-4f6a-8432-cdff1aef5d73" />
 
+---
+
+## About Me  
+👋 Hi, I'm Liza Deka, a data enthusiast.  
+   I enjoy building projects, analyzing real-world data, and sharing insights through GitHub and LinkedIn. 
+   
+  📬 Let’s Connect: <a href="https://www.linkedin.com/in/liza-deka-869473369/">LinkedIn</a>
